@@ -1,0 +1,45 @@
+Target,Feature,Test,p-value,Correlation,Significant Effect
+AverageScore,LunchType,ANOVA,0.000e+00,,True
+AverageScore,TestPrep,ANOVA,0.000e+00,,True
+AverageScore,ParentEduc,ANOVA,1.116e-315,,True
+AverageScore,EthnicGroup,ANOVA,1.932e-249,,True
+AverageScore,Gender,ANOVA,5.381e-109,,True
+AverageScore,WklyStudyHours,ANOVA,1.677e-33,,True
+AverageScore,PracticeSport,ANOVA,2.799e-26,,True
+AverageScore,IsFirstChild,ANOVA,2.429e-02,,True
+AverageScore,ParentMaritalStatus,ANOVA,1.757e-01,,False
+AverageScore,TransportMeans,ANOVA,6.672e-01,,False
+AverageScore,NrSiblings,Pearson Correlation,7.928e-01,-0.002,False
+MathScore,EthnicGroup,ANOVA,0.000e+00,,True
+MathScore,LunchType,ANOVA,0.000e+00,,True
+MathScore,ParentEduc,ANOVA,4.375e-231,,True
+MathScore,Gender,ANOVA,4.401e-180,,True
+MathScore,TestPrep,ANOVA,1.770e-124,,True
+MathScore,WklyStudyHours,ANOVA,6.519e-54,,True
+MathScore,PracticeSport,ANOVA,3.510e-39,,True
+MathScore,IsFirstChild,ANOVA,9.532e-03,,True
+MathScore,ParentMaritalStatus,ANOVA,6.309e-02,,False
+MathScore,TransportMeans,ANOVA,6.807e-01,,False
+MathScore,NrSiblings,Pearson Correlation,8.494e-01,-0.001,False
+ReadingScore,Gender,ANOVA,0.000e+00,,True
+ReadingScore,LunchType,ANOVA,0.000e+00,,True
+ReadingScore,TestPrep,ANOVA,3.078e-287,,True
+ReadingScore,ParentEduc,ANOVA,1.645e-257,,True
+ReadingScore,EthnicGroup,ANOVA,1.060e-150,,True
+ReadingScore,WklyStudyHours,ANOVA,5.620e-19,,True
+ReadingScore,PracticeSport,ANOVA,1.005e-08,,True
+ReadingScore,IsFirstChild,ANOVA,3.392e-02,,True
+ReadingScore,ParentMaritalStatus,ANOVA,3.177e-01,,False
+ReadingScore,TransportMeans,ANOVA,3.879e-01,,False
+ReadingScore,NrSiblings,Pearson Correlation,8.892e-01,-0.001,False
+WritingScore,Gender,ANOVA,0.000e+00,,True
+WritingScore,ParentEduc,ANOVA,0.000e+00,,True
+WritingScore,LunchType,ANOVA,0.000e+00,,True
+WritingScore,TestPrep,ANOVA,0.000e+00,,True
+WritingScore,EthnicGroup,ANOVA,2.976e-179,,True
+WritingScore,PracticeSport,ANOVA,2.981e-29,,True
+WritingScore,WklyStudyHours,ANOVA,1.524e-23,,True
+WritingScore,IsFirstChild,ANOVA,8.558e-02,,False
+WritingScore,ParentMaritalStatus,ANOVA,1.851e-01,,False
+WritingScore,TransportMeans,ANOVA,4.286e-01,,False
+WritingScore,NrSiblings,Pearson Correlation,6.777e-01,-0.002,False

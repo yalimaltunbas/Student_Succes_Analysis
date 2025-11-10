@@ -1,0 +1,24 @@
+Feature,Importance
+ord__WklyStudyHours,0.18994623609268643
+onehot__LunchType_free/reduced,0.08991551478006259
+onehot__LunchType_standard,0.07912964018069697
+onehot__TestPrep_none,0.0532014736428561
+onehot__EthnicGroup_group E,0.05128412237814182
+onehot__TestPrep_completed,0.03879853032473574
+onehot__ParentEduc_some high school,0.03506416103043322
+onehot__PracticeSport_regularly,0.034860860645810676
+onehot__PracticeSport_sometimes,0.03378259559129437
+onehot__ParentEduc_master's degree,0.032921925185081656
+onehot__IsFirstChild_yes,0.03156167354433267
+onehot__IsFirstChild_no,0.03143071375733787
+onehot__EthnicGroup_group D,0.03079856939796913
+onehot__EthnicGroup_group C,0.029351892170111263
+onehot__EthnicGroup_group B,0.02932132426036792
+onehot__ParentEduc_bachelor's degree,0.028467197348351073
+onehot__PracticeSport_never,0.02837263573040866
+onehot__ParentEduc_high school,0.028305071724933413
+onehot__ParentEduc_some college,0.027068766388826784
+onehot__ParentEduc_associate's degree,0.026755021992527744
+onehot__Gender_male,0.02477967901569546
+onehot__EthnicGroup_group A,0.023227616461144636
+onehot__Gender_female,0.021654778356193644
